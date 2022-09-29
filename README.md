@@ -15,5 +15,5 @@
 
 <div>
 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/chgv/chgv/output/github-contribution-grid-snake.svg)
 </div>
